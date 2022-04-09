@@ -1,3 +1,0 @@
-input.accessibilityParameterizedAttributeNames.has(AXAttributedStringForRange)='yes'
-input.accessibilityAttributeValue(AXAttributedStringForRange, {loc: 0, len: 8})='mispeled{
-}'

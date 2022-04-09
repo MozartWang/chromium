@@ -1,5 +1,0 @@
-AXLiveRegionChanged on AXGroup AXDescription='Foo'
-=== Start Continuation ===
-AXLiveRegionChanged on AXGroup AXDescription='Bar'
-=== Start Continuation ===
-AXLiveRegionChanged on AXGroup AXDescription='Baz'
